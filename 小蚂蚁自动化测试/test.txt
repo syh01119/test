@@ -1,0 +1,16 @@
+test_1_login (test_1.myTest1) ... ok
+test_2_info (test_1.myTest1) ... ok
+test_1_login (test_2.myTest1) ... ok
+test_2_subject_query (test_2.myTest1) ... ok
+test_3_subject_add (test_2.myTest1) ... ok
+test_4_subject_del (test_2.myTest1) ... ok
+test_5_subject_detail (test_2.myTest1) ... ok
+test_1_login (test_3.myTest1) ... ok
+test_2_subject_query (test_3.myTest1) ... ok
+test_3_subject_add (test_3.myTest1) ... ok
+test_4_subject_del (test_3.myTest1) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 86.479s
+
+OK
